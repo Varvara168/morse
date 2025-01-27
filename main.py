@@ -26,6 +26,7 @@ def encode_to_morse(text):
 
 
 
+
 def main():
     while True:
         action = input().lower()

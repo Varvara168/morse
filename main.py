@@ -24,7 +24,8 @@ def encode_to_morse(text):
             morse_code += "  "
     return morse_code.strip()
 
-
+def  decode_from_morse(code):
+    pass
 
 
 def main():
